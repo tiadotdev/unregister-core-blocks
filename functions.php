@@ -1,3 +1,4 @@
+<?php
 
 /**
  * Gutenberg style editor
